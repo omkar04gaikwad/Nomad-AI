@@ -1,0 +1,92 @@
+[
+  {
+    "hotel_name": "Grand Hotel Paris",
+    "location": "Paris",
+    "price_estimate": 200,
+    "tier": "mid-range",
+    "rating": 4.2,
+    "amenities": ["WiFi", "Restaurant", "Bar", "Gym"],
+    "description": "Elegant hotel in the heart of Paris with stunning city views"
+  },
+  {
+    "hotel_name": "Luxury Palace Hotel",
+    "location": "Paris",
+    "price_estimate": 400,
+    "tier": "luxury",
+    "rating": 4.8,
+    "amenities": ["WiFi", "Spa", "Pool", "Restaurant", "Concierge"],
+    "description": "Five-star luxury hotel with world-class amenities"
+  },
+  {
+    "hotel_name": "Budget Inn Paris",
+    "location": "Paris",
+    "price_estimate": 80,
+    "tier": "budget",
+    "rating": 3.5,
+    "amenities": ["WiFi", "Breakfast"],
+    "description": "Affordable accommodation in a convenient location"
+  },
+  {
+    "hotel_name": "Tokyo Business Hotel",
+    "location": "Tokyo",
+    "price_estimate": 150,
+    "tier": "mid-range",
+    "rating": 4.0,
+    "amenities": ["WiFi", "Business Center", "Restaurant"],
+    "description": "Modern business hotel in central Tokyo"
+  },
+  {
+    "hotel_name": "London Boutique Hotel",
+    "location": "London",
+    "price_estimate": 180,
+    "tier": "mid-range",
+    "rating": 4.3,
+    "amenities": ["WiFi", "Bar", "Restaurant"],
+    "description": "Charming boutique hotel in historic London"
+  },
+  {
+    "hotel_name": "Berlin Modern Hotel",
+    "location": "Berlin",
+    "price_estimate": 120,
+    "tier": "mid-range",
+    "rating": 4.1,
+    "amenities": ["WiFi", "Gym", "Restaurant"],
+    "description": "Contemporary hotel with modern design"
+  },
+  {
+    "hotel_name": "Dubai Desert Resort",
+    "location": "Dubai",
+    "price_estimate": 300,
+    "tier": "luxury",
+    "rating": 4.6,
+    "amenities": ["WiFi", "Pool", "Spa", "Restaurant", "Desert Tours"],
+    "description": "Luxury desert resort with stunning views"
+  },
+  {
+    "hotel_name": "Singapore Marina Hotel",
+    "location": "Singapore",
+    "price_estimate": 250,
+    "tier": "luxury",
+    "rating": 4.7,
+    "amenities": ["WiFi", "Pool", "Spa", "Restaurant", "Marina Views"],
+    "description": "Iconic hotel with spectacular marina views"
+  },
+  {
+    "hotel_name": "New York Central Hotel",
+    "location": "New York",
+    "price_estimate": 220,
+    "tier": "mid-range",
+    "rating": 4.0,
+    "amenities": ["WiFi", "Gym", "Restaurant"],
+    "description": "Convenient hotel in Manhattan"
+  },
+  {
+    "hotel_name": "Rome Historic Inn",
+    "location": "Rome",
+    "price_estimate": 160,
+    "tier": "mid-range",
+    "rating": 4.2,
+    "amenities": ["WiFi", "Restaurant", "Historic Building"],
+    "description": "Charming hotel in a historic building"
+  }
+]

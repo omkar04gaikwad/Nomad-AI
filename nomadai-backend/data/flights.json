@@ -1,0 +1,90 @@
+[
+  {
+    "airline": "Delta Airlines",
+    "origin": "New York",
+    "destination": "Paris",
+    "duration": "7h 30m",
+    "price_estimate": 800,
+    "departure_time": "10:00 AM",
+    "arrival_time": "11:30 PM",
+    "stops": 0,
+    "class": "Economy"
+  },
+  {
+    "airline": "American Airlines",
+    "origin": "New York",
+    "destination": "Paris",
+    "duration": "8h 15m",
+    "price_estimate": 750,
+    "departure_time": "2:30 PM",
+    "arrival_time": "6:45 AM",
+    "stops": 0,
+    "class": "Economy"
+  },
+  {
+    "airline": "Air France",
+    "origin": "New York",
+    "destination": "Paris",
+    "duration": "7h 45m",
+    "price_estimate": 850,
+    "departure_time": "8:00 PM",
+    "arrival_time": "10:45 AM",
+    "stops": 0,
+    "class": "Economy"
+  },
+  {
+    "airline": "United Airlines",
+    "origin": "New York",
+    "destination": "Tokyo",
+    "duration": "14h 30m",
+    "price_estimate": 1200,
+    "departure_time": "11:00 AM",
+    "arrival_time": "2:30 PM",
+    "stops": 0,
+    "class": "Economy"
+  },
+  {
+    "airline": "British Airways",
+    "origin": "New York",
+    "destination": "London",
+    "duration": "6h 45m",
+    "price_estimate": 650,
+    "departure_time": "9:30 AM",
+    "arrival_time": "9:15 PM",
+    "stops": 0,
+    "class": "Economy"
+  },
+  {
+    "airline": "Lufthansa",
+    "origin": "New York",
+    "destination": "Berlin",
+    "duration": "8h 20m",
+    "price_estimate": 900,
+    "departure_time": "4:15 PM",
+    "arrival_time": "6:35 AM",
+    "stops": 0,
+    "class": "Economy"
+  },
+  {
+    "airline": "Emirates",
+    "origin": "New York",
+    "destination": "Dubai",
+    "duration": "12h 45m",
+    "price_estimate": 1100,
+    "departure_time": "10:30 PM",
+    "arrival_time": "7:15 PM",
+    "stops": 0,
+    "class": "Economy"
+  },
+  {
+    "airline": "Singapore Airlines",
+    "origin": "New York",
+    "destination": "Singapore",
+    "duration": "18h 30m",
+    "price_estimate": 1400,
+    "departure_time": "1:00 AM",
+    "arrival_time": "6:30 AM",
+    "stops": 1,
+    "class": "Economy"
+  }
+]

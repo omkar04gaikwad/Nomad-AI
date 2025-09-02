@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Eiffel Tower Tour",
+    "category": "sightseeing",
+    "location": "Paris",
+    "cost_estimate": 50,
+    "duration": "2-3 hours",
+    "description": "Iconic landmark with stunning city views",
+    "tags": ["sightseeing", "culture", "landmark"]
+  },
+  {
+    "name": "Louvre Museum Visit",
+    "category": "culture",
+    "location": "Paris",
+    "cost_estimate": 20,
+    "duration": "3-4 hours",
+    "description": "World's largest art museum with Mona Lisa",
+    "tags": ["culture", "art", "museum"]
+  },
+  {
+    "name": "Seine River Cruise",
+    "category": "sightseeing",
+    "location": "Paris",
+    "cost_estimate": 35,
+    "duration": "1 hour",
+    "description": "Scenic boat tour along the Seine River",
+    "tags": ["sightseeing", "relaxation", "river"]
+  },
+  {
+    "name": "French Cooking Class",
+    "category": "food",
+    "location": "Paris",
+    "cost_estimate": 80,
+    "duration": "3 hours",
+    "description": "Learn to cook authentic French cuisine",
+    "tags": ["food", "culture", "learning"]
+  },
+  {
+    "name": "Notre-Dame Cathedral",
+    "category": "sightseeing",
+    "location": "Paris",
+    "cost_estimate": 0,
+    "duration": "1-2 hours",
+    "description": "Gothic cathedral with stunning architecture",
+    "tags": ["sightseeing", "culture", "architecture", "free"]
+  },
+  {
+    "name": "Champs-Élysées Shopping",
+    "category": "shopping",
+    "location": "Paris",
+    "cost_estimate": 100,
+    "duration": "2-3 hours",
+    "description": "Famous shopping avenue with luxury boutiques",
+    "tags": ["shopping", "luxury", "fashion"]
+  },
+  {
+    "name": "Senso-ji Temple",
+    "category": "culture",
+    "location": "Tokyo",
+    "cost_estimate": 0,
+    "duration": "1-2 hours",
+    "description": "Ancient Buddhist temple in Asakusa",
+    "tags": ["culture", "religion", "temple", "free"]
+  },
+  {
+    "name": "Shibuya Crossing",
+    "category": "sightseeing",
+    "location": "Tokyo",
+    "cost_estimate": 0,
+    "duration": "30 minutes",
+    "description": "World's busiest pedestrian crossing",
+    "tags": ["sightseeing", "urban", "free"]
+  },
+  {
+    "name": "Sushi Making Workshop",
+    "category": "food",
+    "location": "Tokyo",
+    "cost_estimate": 60,
+    "duration": "2 hours",
+    "description": "Learn to make authentic Japanese sushi",
+    "tags": ["food", "culture", "learning"]
+  },
+  {
+    "name": "Mount Fuji Day Trip",
+    "category": "nature",
+    "location": "Tokyo",
+    "cost_estimate": 120,
+    "duration": "8-10 hours",
+    "description": "Guided tour to Japan's iconic mountain",
+    "tags": ["nature", "adventure", "landscape"]
+  },
+  {
+    "name": "Big Ben & Westminster",
+    "category": "sightseeing",
+    "location": "London",
+    "cost_estimate": 0,
+    "duration": "1-2 hours",
+    "description": "Iconic clock tower and government buildings",
+    "tags": ["sightseeing", "landmark", "architecture", "free"]
+  },
+  {
+    "name": "British Museum",
+    "category": "culture",
+    "location": "London",
+    "cost_estimate": 0,
+    "duration": "3-4 hours",
+    "description": "World-famous museum with ancient artifacts",
+    "tags": ["culture", "museum", "history", "free"]
+  },
+  {
+    "name": "London Eye",
+    "category": "sightseeing",
+    "location": "London",
+    "cost_estimate": 40,
+    "duration": "30 minutes",
+    "description": "Giant observation wheel with city views",
+    "tags": ["sightseeing", "views", "landmark"]
+  },
+  {
+    "name": "Fish & Chips Tasting",
+    "category": "food",
+    "location": "London",
+    "cost_estimate": 25,
+    "duration": "1 hour",
+    "description": "Traditional British fish and chips experience",
+    "tags": ["food", "culture", "traditional"]
+  },
+  {
+    "name": "Brandenburg Gate",
+    "category": "sightseeing",
+    "location": "Berlin",
+    "cost_estimate": 0,
+    "duration": "1 hour",
+    "description": "Historic landmark symbolizing German unity",
+    "tags": ["sightseeing", "history", "landmark", "free"]
+  },
+  {
+    "name": "Berlin Wall Memorial",
+    "category": "culture",
+    "location": "Berlin",
+    "cost_estimate": 0,
+    "duration": "2 hours",
+    "description": "Memorial site with preserved wall sections",
+    "tags": ["culture", "history", "memorial", "free"]
+  },
+  {
+    "name": "German Beer Garden",
+    "category": "food",
+    "location": "Berlin",
+    "cost_estimate": 30,
+    "duration": "2-3 hours",
+    "description": "Traditional beer garden experience",
+    "tags": ["food", "culture", "nightlife"]
+  },
+  {
+    "name": "Burj Khalifa Visit",
+    "category": "sightseeing",
+    "location": "Dubai",
+    "cost_estimate": 80,
+    "duration": "2 hours",
+    "description": "World's tallest building with observation deck",
+    "tags": ["sightseeing", "landmark", "views"]
+  },
+  {
+    "name": "Desert Safari",
+    "category": "adventure",
+    "location": "Dubai",
+    "cost_estimate": 90,
+    "duration": "6 hours",
+    "description": "4x4 desert adventure with dinner",
+    "tags": ["adventure", "nature", "desert"]
+  },
+  {
+    "name": "Marina Bay Sands",
+    "category": "sightseeing",
+    "location": "Singapore",
+    "cost_estimate": 0,
+    "duration": "1-2 hours",
+    "description": "Iconic hotel with rooftop infinity pool",
+    "tags": ["sightseeing", "landmark", "architecture", "free"]
+  },
+  {
+    "name": "Gardens by the Bay",
+    "category": "nature",
+    "location": "Singapore",
+    "cost_estimate": 25,
+    "duration": "3-4 hours",
+    "description": "Spectacular nature park with supertrees",
+    "tags": ["nature", "gardens", "landscape"]
+  }
+]

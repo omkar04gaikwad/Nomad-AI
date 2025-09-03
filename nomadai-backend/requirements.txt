@@ -7,8 +7,8 @@ pydantic==2.5.0
 cohere==4.37
 sentence-transformers==2.2.2
 transformers==4.36.2
-torch==2.1.2
-numpy==1.24.3
+torch>=2.6.0
+numpy>=1.26.0
 
 # LangChain for itinerary generation
 
@@ -17,7 +17,7 @@ numpy==1.24.3
 requests==2.31.0
 
 # Data processing
-pandas==2.1.4
+pandas>=2.2.0
 
 # Development and testing
 pytest==7.4.3
@@ -25,8 +25,8 @@ pytest-asyncio==0.21.1
 httpx==0.25.2
 
 # Optional: For PDF export functionality
-reportlab==4.0.7
-Pillow==10.1.0
+reportlab>=4.0.7
+Pillow>=10.4.0
 
 # Environment and configuration
 python-dotenv==1.0.0

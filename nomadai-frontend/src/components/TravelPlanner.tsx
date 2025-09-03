@@ -348,3 +348,4 @@ const TravelPlanner: React.FC = () => {
 };
 
 export default TravelPlanner;
+

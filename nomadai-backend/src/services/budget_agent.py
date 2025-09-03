@@ -3,6 +3,10 @@ import os
 from typing import Dict, Any
 import cohere
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 class BudgetAgent:
     """

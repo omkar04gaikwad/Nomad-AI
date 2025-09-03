@@ -32,3 +32,4 @@ export default function ActivityTags({ activities, className = '' }: ActivityTag
     </div>
   );
 }
+

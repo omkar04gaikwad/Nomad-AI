@@ -1,4 +1,4 @@
-mn # 🧭 Nomad AI — Personal AI Travel Planner (Portfolio Project)
+ # 🧭 Nomad AI — Personal AI Travel Planner (Portfolio Project)
 
 Nomad AI is a personal project showcasing an end‑to‑end AI travel planner. It turns a short natural‑language prompt into a personalized, day‑by‑day itinerary with suggested places, activities, and visuals. Built to demonstrate practical LLM orchestration, retrieval, and a clean developer experience.
 
